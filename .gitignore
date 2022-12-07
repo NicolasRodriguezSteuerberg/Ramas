@@ -1,8 +1,8 @@
-.idea
-out
-build
-nbproject
-test
-build.xml
-manifest.mf
-dist
+﻿Branches/.idea
+Branches/out
+Branches/build
+Branches/nbproject
+Branches/test
+Branches/build.xml
+Branches/manifest.mf
+Branches/dist
